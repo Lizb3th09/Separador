@@ -1,8 +1,16 @@
+""" Que pueda separar  A-z,incluyendo Digitos de puntacion,letras con signo y numeros."""
+
+import string
+
+
+def caracter_valido():
+    """Funcion para aseptar tipos de caracteres"""
+    caracteres_validos=string.ascii_letters + string.digits + string.punctuation + "áéíóúÁÉÍÓÚÑñüÜ"
+    return caracteres_validos
+
 def separar_por_caracteres(cadena):
-    caracteres = []  
-    for caracter in cadena:
-        caracteres.append(caracter)
-    return caracteres
+    """"Funcion que separa la cadena"""
+    return list(cadena)
 
 cadena_usuario = input("Ingrese una cadena de texto:")
 
