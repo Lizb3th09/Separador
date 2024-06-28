@@ -1,4 +1,4 @@
-""" Que pueda separar  A-z,incluyendo Digitos de puntacion,letras con signo y numeros."""
+""" Que asepte A-z,incluyendo signos de puntacion,letras con signo y numeros."""
 
 import string
 
