@@ -1,8 +1,8 @@
 
-Recursos para el analizador lexico:
+Sustantivos:101: casa,mochila,perro,libro,mesa,tenis,flor,mar,niño,computadora.
+Adejtivos:102: grande,feliz,Rápido,viejo,frio,fuerte,caro,serio,azul,suave.
 
-Sustantivos: casa,mochila,perro,libro,mesa,tenis,flor,mar,niño,computadora.
-Adejtivos: grande,feliz,Rápido,viejo,frio,fuerte,caro,serio,azul,suave.
-Adverbio: muy, ayer,afuera,lejos,mañana,pronto,tarde,nunca,ahora,aqui.
-Pronombre: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas.
+Adverbio:103: muy, ayer,afuera,lejos,mañana,pronto,tarde,nunca,ahora,aqui.
+
+Pronombre:104: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas.
 Verbos: comer,caminar,dormir,jugar,tener,escribir,nadar,escuchar,mirar,hablar.

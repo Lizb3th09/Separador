@@ -12,7 +12,7 @@ def separar_por_caracteres(cadena):
     for caracter in cadena:
         if caracter.lower() not in gramatica:
             return f"Error,caracter invalido'{caracter}'"
-    return list(cadena)
+    return cadena.split()
 
 cadena_usuario = input("Ingrese una cadena de texto: ")
 
