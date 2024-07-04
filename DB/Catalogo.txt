@@ -1,4 +1,4 @@
-99: ser,soy,estar,es.
+99: ser,soy,estara,es,esta,estaba,era.
 101: casa,mochila,perro,libro,mesa,tenis,flor,mar,niño,computadora.
 102: grande,feliz,Rápido,viejo,frio,fuerte,caro,serio,azul,suave.
 103: muy, ayer,afuera,lejos,mañana,pronto,tarde,nunca,ahora,aqui.
