@@ -7,4 +7,5 @@ def find_sustantivos(palabra):
                 fid.close()
                 return data[0]
     
-    fid.close()
+    return f"No está en el catálogo."
+   
