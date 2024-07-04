@@ -1,1 +1,0 @@
-Verbos: comer,caminar,dormir,jugar,tener,escribir,nadar,escuchar,mirar,hablar.

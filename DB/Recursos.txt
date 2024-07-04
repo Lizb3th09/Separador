@@ -1,0 +1,6 @@
+99: ser,soy,estar,es.
+101: casa,mochila,perro,libro,mesa,tenis,flor,mar,niño,computadora.
+102: grande,feliz,Rápido,viejo,frio,fuerte,caro,serio,azul,suave.
+103: muy, ayer,afuera,lejos,mañana,pronto,tarde,nunca,ahora,aqui.
+104: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas.
+105: comer,caminar,dormir,jugar,tener,escribir,nadar,escuchar,mirar,hablar.
