@@ -8,6 +8,6 @@ if __name__ == '__main__':
         for linea in archivo_gramatica:
             for palabra in linea.split():
                 token = mifuntion.find_sustantivos(palabra)
-                print(f"\t La palabra [{palabra}] -> {token}")
+                #lprint(f"\t La palabra [{palabra}] -> {token}")
     else:
         print("Error revisa su texto")
