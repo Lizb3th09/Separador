@@ -1,75 +1,43 @@
-99: ser,soy,estar,es,está,estaba,era,fueron,sean,siendo,sido,eres,somos,son,estuve,estuvimos,estuvieron,seré,serás,será,seremos,serán,sería,serías,
-serían,estoy,estás,estamos,estuve,estuviste,estuvo,estuvieron,estaré,estarás,estará,estaremos,estarían,estado,fui,fuiste,fue,fuimos,fuisteis, 
-éramos,erais,eran,seréis,seríamos,seríais,serían.
+1: .:()?¡¿!",
 
-100: casa,mochila,libro,mesa,tenis,flor,mar,niño,computadora,silla,teléfono,lámpara,reloj,puerta,ventana,bicicleta,árbol,montaña,pelota,globo,cuaderno,escritorio,
-cama,abrigo,pantalón,zapato,camiseta,sombrero,cuadro,martillo,cuchillo,tenedor,plato,taza,vaso,cepillo,peine,espejo,jabón,cepillo,dientes,perfume,papel,
-bolígrafo,crayón,pintura,pincel,lienzo,lápiz,borrador,aguja,hilo,botón,tela,reloj,radio,televisión,teclado,ratón,monitor,impresora,escáner,micrófono, 
-altavoz,auriculares,DVD,CD,MP3,cámara,trípode,maleta,brújula,linterna,telescopio,microscopio,maletín, correa, collar,llave, cerradura,cinta,lentes,almohada,
-cobija,telefono,celular,cargador,foco,piso,alfombra,sabana,colchon,mantel,maseta,zapatos,vestido,bocina,guitarra,bateria.
+10: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas,los,el,la,familia,hermano,hermana,madre,padre,amigo,amiga,profesor,profesora,doctor,doctora,niño,niña,niños,hombre,mujer,jefe,jefa,vecino,vecina,alumno,alumna,presidente,policía,bombero,conductor,piloto,camarero,camarera,estudiante,ingeniero,licensiado,programador,maestro,maestra,novio,novia,amigos,hijos,hijo,hija,sobrino,sobrina,juntos.
 
+20: ser,soy,estar,es,está,cual,estaba,era,prefiero,fueron,desde,sean,siendo,sido,eres,somos,son,estuve,estuvimos,estuvieron,seré,serás,será,seremos,serán,sería,serías,serían,estoy,estás,estamos,estaban,estuve,estuviste,estuvo,estuvieron,estaré,estarás,estará,estaremos,estarían,estado,fui,fuiste,fue,fuimos,fuisteis,éramos,eran,seríamos,serían.
 
-101: grande,rápido,viejo,frío,fuerte,caro,serio,suave,alto,bajo,delgado,gordo,pequeño,joven,nuevo,antiguo,brillante,oscuro,claro,seco,húmedo,
-caliente,tibio,templado,estrecho,ancho,duro,blando,rugoso,liso,hermoso,feo,simpático,antipático,grosero,generoso,egoísta,honesto,deshonesto,
-valiente,cobarde,inteligente,tonto,trabajador,perezoso,ordenado,desordenado,limpio,sucio,ruidoso,silencioso,tranquilo,nervioso,alegre,triste,optimista,
-pesimista,sincero,mentiroso,educado,maleducado,maduro,inmaduro,responsable,irresponsable,puntual,impuntual,atento,distraído,activo,pasivo,divertido,
-aburrido,moderno,clásico,sofisticado,sencillo,elegante,informal,formal,natural,artificial,barato,famoso,desconocido,popular,impopular,exitoso,fracasado,
-saludable,enfermo,fresco,podrido,sabroso,insípido,delicioso,asqueroso,picante,dulce,amargo,agrio,salado,aceitoso,crujiente,jugoso,ligero,pesado,sólido,
-líquido,gaseoso,inflado,desinflado,resistente,frágil,endeble,robusto,quebradizo,débil,compacto,disperso,denso,macizo,hueco,lleno,vacío,completo,incompleto,
-perfecto,imperfecto,exacto,inexacto,correcto,incorrecto,verdadero,falso,justo,injusto,real,irreal,posible,imposible,probable,improbable,seguro,inseguro,
-cierto,incierto,obvio,dudoso,visible,invisible,transparente,opaco,mate,atractivo,repulsivo,normal,anormal,común,raro,extraordinario,ordinario,frecuente,
-infrecuente,usual,inusual,habitual,ocasional,constante,variable,regular,irregular,simétrico,asimétrico,proporcionado,desproporcionado,armonioso,desarmónico,
-lógico,ilógico,racional,irracional,coherente,incoherente,congruente,incongruente,preciso,impreciso,adecuado,inadecuado,apto,inepto,calificado,descalificado,
-autorizado,no autorizado,permitido,prohibido,legal,ilegal,relajado,severo,indulgente,estricto,riguroso,flexible,nítido,borroso,definido,indefinido,
-permanente,temporal,continuo,discontinuo,estable,inestable,firme,sólido,lleno,vacío,terminado,finalizado,interrumpido,concluido,inconcluso,cubierto,
-descubierto,tapado,destapado,protegido,desprotegido,resguardado,expuesto,vulnerable,invulnerable.
+30: y,o,a,en,una,pero,aunque,porque,por,tanto,sin,embargo,entonces,después,así,manera,hecho,eso,cambio,otro,lado,es,decir,palabras,pesar,debido,consecuencia,consiguiente,ejemplo,supuesto,primer,lugar,segundo,finalmente,también,incluso,ni,tampoco,pues,ya,dado,puesto,modo,como,en,tanto,si,cuando,con,tal,para,fin,menos,salvo,excepto,no,mi,me,su,lo,le,pesar,de,pese,que,se,Me,porque.
 
-200: muy,ayer,afuera,lejos,mañana,pronto,tarde,nunca,ahora,aquí,siempre,apenas,bastante,luego,demasiado,así,quizás,también,menos,mucho,antes,casi,
-aún,adentro,cerca,dentro,hoy,ya,allí,ahí,además,cómo,donde,cuando,bien,mal,mientras,tanto,poco,después.
+40: 0cero,1uno,2dos,3tres,4cuatro,5cinco,6seis,7siete,8ocho,9nueve,10diez,11once,12doce,13 trece,14catorce,15quince,16dieciséis,17diecisiete,18dieciocho,19diecinueve,20veinte,21veintiuno,22veintidós,23veintitrés,24veinticuatro,25veinticinco,26veintiséis,27veintisiete,28veintiocho,29veintinueve,30treinta,40cuarenta,50cincuenta,60sesenta,70setenta,80ochenta,90noventa,100cien,200doscientos,300trescientos,400cuatrocientos,500quinientos,600seiscientos,700setecientos, 800ochocientos,900novecientos,1000mil.
 
-201: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas.
+50: mochila,libro,mesa,tenis,niño,computadora,silla,balón,teléfono,lámpara,reloj,puerta,banca,ventana,bicicleta,pelota,globo,cuaderno,escritorio,cama,abrigo,pantalón,zapato,camiseta,sombrero,cuadro,martillo,cuchillo,tenedor,plato,taza,vaso,cepillo,peine,espejo,jabón,cepillo,dientes,perfume,papel,bolígrafo,crayón,pintura,pincel,lienzo,lápiz,borrador,aguja,hilo,botón,tela,reloj,radio,televisión,teclado,ratón,monitor,impresora,escáner,micrófono,altavoz,auriculares,cámara,trípode,maleta,brújula,linterna,telescopio,microscopio,maletín,correa,collar,llave,cerradura,cinta,lentes,almohada,cobija,telefono,celular,cargador,foco,piso,alfombra,sabana,colchon,mantel,maseta,zapatos,vestido,bocina,guitarra,bateria,dinero,pesos,billete,cambio,monedas,moneda.
 
-300: Coche,Camión,Avión,Barco,Moto,Bicicleta,Tren,Autobús,Helicóptero,Tractor,patineta,patines.
+60: grande,rápido,tiempo,buen,bueno,buena,viejo,frío,calor,fuerte,caro,serio,suave,alto,bajo,delgado,gordo,pequeño,joven,nuevo,antiguo,brillante,oscuro,claro,seco,húmedo,caliente,cansado,increíble,tibio,templado,estrecho,ancho,duro,blando,rugoso,liso,hermoso,feo,simpático,antipático,grosero,generoso,egoísta,honesto,deshonesto,valiente,cobarde,inteligente,tonto,trabajador,perezoso,ordenado,desordenado,limpio,sucio,ruidoso,silencioso,tranquilo,nervioso,alegre,triste,optimista,pesimista,sincero,mentiroso,educado,maleducado,maduro,inmaduro,responsable,irresponsable,puntual,impuntual,atento,distraído,activo,pasivo,divertido,aburrido,moderno,clásico,sofisticado,sencillo,elegante,informal,formal,natural,artificial,barato,famoso,desconocido,popular,impopular,exitoso,fracasado,saludable,enfermo,fresco,podrido,sabroso,insípido,delicioso,asqueroso,picante,dulce,amargo,agrio,salado,aceitoso,crujiente,jugoso,ligero,pesado,sólido,líquido,gaseoso,inflado,desinflado,resistente,frágil,endeble,robusto,quebradizo,débil,compacto,disperso,denso,macizo,hueco,lleno,vacío,completo,incompleto,perfecto,imperfecto,exacto,inexacto,correcto,incorrecto,verdadero,falso,justo,injusto,real,irreal,posible,imposible,probable,improbable,seguro,inseguro,cierto,incierto,obvio,dudoso,visible,invisible,transparente,opaco,mate,atractivo,repulsivo,normal,anormal,común,raro,extraordinario,ordinario,frecuente,infrecuente,usual,inusual,habitual,ocasional,constante,variable,regular,irregular,simétrico,asimétrico,proporcionado,desproporcionado,armonioso,desarmónico,lógico,ilógico,racional,irracional,coherente,incoherente,congruente,incongruente,preciso,impreciso,adecuado,inadecuado,apto,inepto,calificado,descalificado,autorizado,no autorizado,permitido,prohibido,legal,ilegal,relajado,severo,indulgente,estricto,riguroso,flexible,nítido,borroso,definido,indefinido,permanente,temporal,continuo,discontinuo,estable,inestable,firme,sólido,lleno,vacío,terminado,finalizado,interrumpido,concluido,inconcluso,cubierto,descubierto,tapado,destapado,protegido,desprotegido,resguardado,expuesto,vulnerable,invulnerable.
 
-301: Nadé,Escuché,Miré,Hablé,Corrí,Salté,Bailé,Leí,Estudié,Trabajé,Viajé,Canté,Cociné,Lavé,Limpié,Dibujé,Pinté,Resolví,Ayudé,Enseñé,Aprendí,Descansé,
-Llamé,Esperé,Pensé,Sentí,Besé,Abracé,Soñé,Volé,Conduje,Cazé,Observé,Planté,Regué,Construí,Destruí,Reparé,Celebré,Organicé,Participé,Competí,Recibí,Gasté,
-Jugé,Comí,Caminé,Dormí,Tuve,Como,Camino,Duermo,Juego,Tengo,Escribo,Nado,Escucho,Miro,Hablo,Corro,Salto,Bailo,Leo,Estudio,Trabajo,Viajo,Canto,Cocino,
-Lavo,Limpio,Dibujo,Pinto,Resuelvo,Ayudo,Enseño,Aprendo,Descanso,Llamo,Espero,Pienso,Siento,Beso,Abrazo,Sueño,Vuelo,Conduzco,Cazo,Observo,Planto,Riego,
-Construyo,Destruyo,Reparo,Celebro,Organizo,Participo,Compito,Entreno,Admiro,Bebo,Fumo,Comeré,Caminaré,Dormiré,Jugaré,Tendré,Escribiré,Nadaré,Escucharé,
-Miraré,Hablaré,Correré,Saltaré,Bailaré,Leeré,Estudiaré,Trabajaré,Viajaré,Cantaré,Cocinaré,Lavaré,Limpiaré,Dibujaré,Pintaré,Resolveré,Ayudaré,Enseñaré,
-Aprenderé,Descansaré,Llamaré,Esperaré,Pensaré,Sentiré,Besaré,Abrazaré,Soñaré,Volaré,Conduciré,Cazaré,Observaré,Plantaré,Regaré,Construiré,Destruiré,
-Repararé,Celebraré,Organizaré,Participaré,Competiré,Imaginaré,Inventaré,Asistiré,Trataré,Promoveré,Continuaré,Viajaré.
+70: si,no,Si,No,Hoy,muy,ayer,afuera,lejos,año,años,muchas,pasado,Ayer,cerca,cercano,cercana.futuro,presente,mañana,día,días,pronto,veces,tarde,nunca,más,ahora,aquí,más,siempre,apenas,bastante,día,días,luego,demasiado,así,quizás,también,menos,mucho,antes,casi,aún,adentro,cerca,dentro,hoy,ya,allí,ahí,además,cómo,donde,cuando,bien,mal,mientras,tanto,poco,después,ningun,contigo.
 
-400: perro,gato,pájaro,elefante,león,tigre,oso,jirafa,ballena,delfín,tortuga,serpiente,pez,rana,mono,caballo,vaca,cerdo,oveja,cabra,pato,gallina,
-águila,búho,colibrí,pingüino,cocodrilo,hipopótamo,rinoceronte,zorro,lobo,canguro,koala,panda,cebra,gorila,chimpancé,murciélago,búfalo,avestruz, 
-leopardo,foca,morsa,nutria,castor,alce,ciervo,ardilla,conejo,liebre,lince,puma,albatros,garza,iguana,armadillo,tejón,comadreja,yegua,toro,babuino,
-mangosta,lémur,tarántula,escorpión,águila,pelícano,gaviota,buitre,flamenco,ánade,mariposa,abeja,mosquito,hormiga,cucaracha,escarabajo,libélula,
-avispa,grillo,saltamontes,langosta,pulga,garrapata,araña,ciempiés,tiburon,pulpo.
+80: Coche,Camión,Avión,Barco,Moto,Bicicleta,Tren,Autobús,Helicóptero,Tractor,patineta,patines.
 
-401: manzana,naranja,plátano,pera,uva,fresa,piña,mango,sandía,melón,limón,cereza,kiwi,papaya,guayaba,coco,ciruela,higo,granada,melocotón,albaricoque,
-mandarina,pomelo,aguacate,mora,frambuesa,zarzamora,chirimoya,pitaya,pepino,tomate,zanahoria,lechuga,espinaca,brócoli,coliflor,pimiento,cebolla,ajo,
-calabacín,berenjena,papa,calabaza,apio,puerro,judía,guisante,maíz.
+90: leer,nadé,escuché,miré,hablé,corrí,salir,decidí,salté,bailé,leí,relajarme,relajar,despejar,necesitaba,sentar,sentamos,sento,necesitar,caminaba,veía,estudié,pasear,paseo,pasearé,mantener,importar,importa,mantenerme,trabajé,viajé,gusta,gustar,gustará,canté,jugamos,juega,preparar,ejercicio,prepararé,prepare,preparo,volver,volvi,volvere,corre,come,duerme,olvidar,olvido,olvidé,compré,comprar,canta,baila,sueña,lavará,cocinará,jugará,comerá,dormirá,bailará,cantará,tocará,correrá,corrieron,cociné,lavé,hacía,comimos,hacer,limpié,dibujé,pinté,resolví,ayudé,enseñé,aprendí,descansé,llamé,corrían,regrese,regresamos,habíamos,canse,cansamos,esperé,pensé,sentí,besé,abracé,soñé,volé,conduje,cazé,observé,planté,regué,construí,destruí,reparé,celebré,cene,cenar,cenaba,organicé,participé,competí,recibí,gasté,jugé,comí,caminé,dormí,tuve,hizo,dar,dimos,di,como,camino,duermo,juego,tengo,sentir,escribo,nado,tener,tenia,escucho,miro,hablo,corro,corrían,llevar,llevamos,salto,bailo,leo,estudio,trabajo,viajo,canto,cocino,lavo,limpio,dibujo,pinto,resuelvo,ayudo,enseño,aprendo,descanso,llamo,espero,pienso,siento,beso,abrazo,sueño,vuelo,conduzco,cazo,observo,planto,riego,construyo,destruyo,reparo,celebro,organizo,participo,compito,entreno,admiro,bebo,fumo,comeré,caminaré,dormiré,jugaré,tendré,escribiré,nadaré,escucharé,miraré,hablaré,correré,saltaré,bailaré,leeré,estudiaré,trabajaré,viajaré,cantaré,cocinaré,lavaré,limpiaré,dibujaré,pintaré,resolveré,ayudaré,enseñaré,aprenderé,descansaré,llamaré,esperaré,pensaré,sentiré,besaré,abrazaré,soñaré,volaré,conduciré,cazaré,Observaré,plantaré,regaré,construiré,destruiré,repararé,celebraré,organizaré,participaré,competiré,imaginaré,inventaré,asistiré,trataré,promoveré,Continuaré,viajar,jugar,tener,tenia,asepto,podemos,disfrutar,tengo,viaje,jugaban,subir,subió,subira,hacer,hace,poder,puedo,pude,podia,quedar,quedarme,invite,invitar,subire,invite.
 
-500: pizza,hamburguesa,hotdog,tacos,burrito,enchiladas,empanadas,sushi,sashimi,ramen,pasta,espaguetis,lasaña,birria,arroz,pollo,arepas,tamales,ceviche, 
-pollo asado,carne asada,pescado frito,estofado,sopa,ensalada,tostadas,torta,chilaquiles,quesadillas,albóndigas,filete,costillas,tortilla,churros, buñuelos, 
-helado,pastel,galletas,donas,waffles,panqueques,hotcakes,flautas,omelette,pozole,mole.
+100: perro,gato,pájaro,elefante,león,tigre,oso,jirafa,ballena,delfín,tortuga,serpiente,pez,rana,mono,caballo,vaca,cerdo,oveja,cabra,pato,gallina,águila,búho,colibrí,pingüino,cocodrilo,hipopótamo,rinoceronte,zorro,lobo,canguro,koala,panda,cebra,gorila,chimpancé,murciélago,búfalo,avestruz,leopardo,foca,morsa,nutria,castor,alce,ciervo,ardilla,conejo,liebre,lince,puma,albatros,garza,iguana,armadillo,tejón,comadreja,yegua,toro,babuino,mangosta,lémur,tarántula,escorpión,águila,pelícano,gaviota,buitre,flamenco,ánade,mariposa,abeja,mosquito,hormiga,cucaracha,escarabajo,libélula,avispa,grillo,saltamontes,langosta,pulga,garrapata,araña,ciempiés,tiburon,pulpo.
 
-501: alegría,tristeza,amor,odio,felicidad,enojo,sorpresa,miedo,esperanza,gratitud,empatía,ternura,nostalgia,celos,vergüenza,orgullo,satisfacción,
-decepción,preocupación,ansiedad,paz,tranquilidad,confianza,frustración,asombro,desesperación,gratitud,compasión,afecto,cariño,amistad,soledad,
-añoranza,angustia,culpa,arrepentimiento.
+200: manzana,naranja,plátano,pera,uva,fresa,piña,mango,sandía,melón,limón,cereza,kiwi,papaya,guayaba,coco,ciruela,higo,granada,melocotón,albaricoque,mandarina,pomelo,aguacate,mora,frambuesa,zarzamora,chirimoya,pitaya,pepino,tomate,zanahoria,lechuga,espinaca,brócoli,coliflor,pimiento,cebolla,ajo,calabacín,berenjena,papa,calabaza,apio,puerro,judía,guisante,maíz.
 
-600: blanco,negro,gris,rojo,azul,verde,amarillo,naranja,morado,violeta,rosa,marrón,beige,dorado,plateado,turquesa,celeste,rosa,salmón,verde limón,verde oliva,
-marfil,cobre,lavanda,cián,índigo.
+300: pizza,hamburguesa,café,leche,pan,huevos,crema,yogurt,gelatina,queso,mayonesa,atun,jamon,salchicha,hotdog,tacos,burrito,enchiladas,empanadas,sushi,sashimi,ramen,pasta,espaguetis,lasaña,birria,arroz,pollo,arepas,tamales,ceviche,pollo asado,carne asada,pescado frito,estofado,sopa,ensalada,tostadas,torta,chilaquiles,quesadillas,albóndigas,filete,costillas,tortilla,churros, buñuelos,helado,pastel,galletas,donas,waffles,panqueques,hotcakes,flautas,omelette,pozole,mole.
 
-601: fútbol,baloncesto,béisbol,tenis,voleibol,natación,atletismo,ciclismo,boxeo,golf,hockey,rugby,cricket,esquí,snowboard,surf,patinaje,gimnasia,artes marciales,
-judo,karate,taekwondo,lucha libre,escalada,equitación,remo,canotaje,tiro con arco,esgrima,tiro al blanco,triatlón,bádminton,tenis de mesa,squash,
-fútbol americano,automovilismo,motociclismo,buceo,waterpolo,balonmano.
+400: siento,alegría,tristeza,amor,odio,felicidad,enojo,sorpresa,miedo,esperanza,gratitud,empatía,ternura,nostalgia,celos,dolor,vergüenza,orgullo,satisfacción,decepción,preocupación,ansiedad,paz,tranquilidad,confianza,frustración,asombro,desesperación,gratitud,compasión,afecto,cariño,amistad,soledad,añoranza,angustia,culpa,arrepentimiento.
 
-700: Argentina,Brasil,Canadá,Chile,China,Colombia,Corea del Sur,Cuba,Egipto,España,Estados Unidos,Francia,Alemania,India,Indonesia,Italia,Japón,
-México,Nigeria,Perú,Portugal,Reino Unido,Rusia,Sudáfrica,Tailandia,Turquía,Ucrania,Venezuela,Australia,Nueva Zelanda,Grecia,Suiza,Suecia,Noruega,
-Dinamarca,Finlandia,Polonia,Rumania,Hungría,República Checa,Eslovaquia,Austria,Bélgica,Países Bajos,Irlanda,Israel,Arabia Saudita,Qatar,Kuwait,
-Irak,Irán,Pakistán,Bangladesh,Vietnam,Filipinas,Malasia,Singapur,Myanmar,Marruecos,Madagascar,Islandia.
+500: blanco,negro,gris,rojo,azul,verde,amarillo,naranja,morado,violeta,rosa,marrón,beige,dorado,plateado,turquesa,celeste,rosa,salmón,verde limón,verde oliva,marfil,cobre,lavanda,cián,índigo.
 
-701: Aguascalientes,Baja California,Baja California Sur,Campeche,Chiapas,Chihuahua,Coahuila,Colima,Durango,Guanajuato,Guerrero,Hidalgo,Jalisco,México,
-Michoacán,Morelos,Nayarit,Nuevo León,Oaxaca,Puebla,Querétaro,Quintana Roo,San Luis Potosí,Sinaloa,Sonora,Tabasco,Tamaulipas,Tlaxcala,Veracruz,Yucatán,
-Zacatecas.
+600: fútbol,baloncesto,béisbol,tenis,voleibol,natación,atletismo,ciclismo,boxeo,golf,hockey,rugby,cricket,esquí,snowboard,surf,patinaje,gimnasia,artes marciales,judo,karate,taekwondo,lucha libre,escalada,equitación,remo,canotaje,tiro con arco,esgrima,tiro al blanco,triatlón,bádminton,tenis de mesa,squash,fútbol americano,automovilismo,motociclismo,buceo,waterpolo,balonmano.
+
+700: Argentina,Brasil,Canadá,Chile,China,Colombia,Corea del Sur,Cuba,Egipto,España,Estados Unidos,Francia,Alemania,India,Indonesia,Italia,Japón,México,Nigeria,Perú,Portugal,Reino Unido,Rusia,Sudáfrica,Tailandia,Turquía,Ucrania,Venezuela,Australia,Nueva Zelanda,Grecia,Suiza,Suecia,Noruega,Dinamarca,Finlandia,Polonia,Rumania,Hungría,República Checa,Eslovaquia,Austria,Bélgica,Países Bajos,Irlanda,Israel,Arabia Saudita,Qatar,Kuwait,Irak,Irán,Pakistán,Bangladesh,Vietnam,Filipinas,Malasia,Singapur,Myanmar,Marruecos,Madagascar,Islandia.
+
+800: Aguascalientes,Baja California,Baja California Sur,Campeche,Chiapas,Chihuahua,Coahuila,Colima,Durango,Guanajuato,Guerrero,Hidalgo,Jalisco,México,Michoacán,Morelos,Nayarit,Nuevo León,Oaxaca,Puebla,Querétaro,Quintana Roo,San Luis Potosí,Sinaloa,Sonora,Tabasco,Tamaulipas,Tlaxcala,Veracruz,Yucatán,Zacatecas.
+
+900: casa,tienda,supermercado,escuela,tienda,parque,cafetería,restaurante,hospital,panaderia,carniceria,iglesia,piscina,alberca,patio,cuarto,habitación,baño,cocina,veterinario,cochera,optica,salón,hotel,jardin.
+
+901: verano,invierno,otoño,primavera
+
+902: frutas,verduras,ambiente,paisaje,volcan,árbol,montaña,lago,mar,arena,rio,playa,planta,flor,clima,lodo,pasto,gimnasio,gym,laboratorio,cancha.
+
+-2: problema,vacaciones,pregunta,discución,duda,estación,favorita,favorito,sombra,paisaje,realmenete,salud,ocupado,ocupada,ocupados,regularmente,Además,Aunque,esté,importante.
