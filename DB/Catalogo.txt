@@ -1,4 +1,4 @@
-1: .:()?¡¿!",
+signo: .:()?¡¿!",
 
 10: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas,los,el,la,familia,hermano,hermana,madre,padre,amigo,amiga,profesor,profesora,doctor,doctora,niño,niña,niños,hombre,mujer,jefe,jefa,vecino,vecina,alumno,alumna,presidente,policía,bombero,conductor,piloto,camarero,camarera,estudiante,ingeniero,licensiado,programador,maestro,maestra,novio,novia,amigos,hijos,hijo,hija,sobrino,sobrina,juntos.
 
