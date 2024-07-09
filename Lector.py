@@ -1,5 +1,5 @@
 def load_sustantivo_sentimientos(palabra):
-    fid = open("DB/Recursos.txt")
+    fid = open("DB/Catalogo.txt")
     for line in fid:
         data = line.split(':')
         for db_string in data [1].split(','):

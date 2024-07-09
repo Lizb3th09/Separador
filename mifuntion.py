@@ -14,25 +14,32 @@ def analiza_caracteres(cadena):
             return f"Error,caracter invalido'{caracter}'"
     return ''
 
-cadena_usuario = input("Ingrese una cadena de texto: ")
-caracteres_no_aseptados = analiza_caracteres(cadena_usuario)
+# Solicitar cadena de texto al usuario
+#cadena_usuario = input("Ingrese una cadena de texto: ")
+#caracteres_no_aseptados = analiza_caracteres(cadena_usuario)
 
 
 # Funcion que busca si las palabras estan en nuestro catalogo
 
 def find_sustantivos(palabra):
-    fid = open('DB/Catalogo.txt',encoding='utf-8')
-    for line in fid:
-        data = line.split(':')     
-        for db_string in data:
-            if palabra in db_string:
-                fid.close()
-                return int (data[0]) ,data
-    return  0 ,' '
+    with  open('DB/Catalogo.txt', encoding='utf-8') as fid:
+        for line in fid:
+            data = line.split(':')     
+            for db_string in data:
+               if palabra in db_string:
+                   return int(data[0]), data        
+    return 0,' '
+
+
+#Analiza y valida el archivo gramatica.txt
+
+with open('gramatica.txt', 'r', encoding='utf-8') as file:
+     cadena_usuario = file.read().strip()
+caracteres_no_aseptados = analiza_caracteres(cadena_usuario)
 
 
 
-# Validamos los caracteres de la cadena de entrada
+# Lista de tokens
 
 if caracteres_no_aseptados:
     print(caracteres_no_aseptados)
@@ -41,3 +48,5 @@ else:
     for componente in cadena_usuario.split():
         token, data = find_sustantivos(componente)
         print(f"\tLa palabra: {componente} -> {token}")
+        lista_tokens.append(token)
+    print(lista_tokens)

@@ -1,8 +1,8 @@
-signo: .:()?¡¿!",
+6: .:()?¡¿!",
 
-10: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas,los,el,la,familia,hermano,hermana,madre,padre,amigo,amiga,profesor,profesora,doctor,doctora,niño,niña,niños,hombre,mujer,jefe,jefa,vecino,vecina,alumno,alumna,presidente,policía,bombero,conductor,piloto,camarero,camarera,estudiante,ingeniero,licensiado,programador,maestro,maestra,novio,novia,amigos,hijos,hijo,hija,sobrino,sobrina,juntos.
+10: ser,soy,estar,es,está,cual,estaba,era,prefiero,fueron,desde,sean,siendo,sido,eres,somos,son,estuve,estuvimos,estuvieron,seré,serás,será,seremos,serán,sería,serías,serían,estoy,estás,estamos,estaban,estuve,estuviste,estuvo,estuvieron,estaré,estarás,estará,estaremos,estarían,estado,fui,fuiste,fue,fuimos,fuisteis,éramos,eran,seríamos,serían.
 
-20: ser,soy,estar,es,está,cual,estaba,era,prefiero,fueron,desde,sean,siendo,sido,eres,somos,son,estuve,estuvimos,estuvieron,seré,serás,será,seremos,serán,sería,serías,serían,estoy,estás,estamos,estaban,estuve,estuviste,estuvo,estuvieron,estaré,estarás,estará,estaremos,estarían,estado,fui,fuiste,fue,fuimos,fuisteis,éramos,eran,seríamos,serían.
+20: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas,los,el,la,familia,hermano,hermana,madre,padre,amigo,amiga,profesor,profesora,doctor,doctora,niño,niña,niños,hombre,mujer,jefe,jefa,vecino,vecina,alumno,alumna,presidente,policía,bombero,conductor,piloto,camarero,camarera,estudiante,ingeniero,licensiado,programador,maestro,maestra,novio,novia,amigos,hijos,hijo,hija,sobrino,sobrina,juntos.
 
 30: y,o,a,en,una,pero,aunque,porque,por,tanto,sin,embargo,entonces,después,así,manera,hecho,eso,cambio,otro,lado,es,decir,palabras,pesar,debido,consecuencia,consiguiente,ejemplo,supuesto,primer,lugar,segundo,finalmente,también,incluso,ni,tampoco,pues,ya,dado,puesto,modo,como,en,tanto,si,cuando,con,tal,para,fin,menos,salvo,excepto,no,mi,me,su,lo,le,pesar,de,pese,que,se,Me,porque.
 
@@ -14,7 +14,7 @@ signo: .:()?¡¿!",
 
 70: si,no,Si,No,Hoy,muy,ayer,afuera,lejos,año,años,muchas,pasado,Ayer,cerca,cercano,cercana.futuro,presente,mañana,día,días,pronto,veces,tarde,nunca,más,ahora,aquí,más,siempre,apenas,bastante,día,días,luego,demasiado,así,quizás,también,menos,mucho,antes,casi,aún,adentro,cerca,dentro,hoy,ya,allí,ahí,además,cómo,donde,cuando,bien,mal,mientras,tanto,poco,después,ningun,contigo.
 
-80: Coche,Camión,Avión,Barco,Moto,Bicicleta,Tren,Autobús,Helicóptero,Tractor,patineta,patines.
+80: Coche,Camión,Avión,Barco,Moto,Bicicleta,Tren,Autobús,Helicóptero,Tractor,patineta,patines,carro.
 
 90: leer,nadé,escuché,miré,hablé,corrí,salir,decidí,salté,bailé,leí,relajarme,relajar,despejar,necesitaba,sentar,sentamos,sento,necesitar,caminaba,veía,estudié,pasear,paseo,pasearé,mantener,importar,importa,mantenerme,trabajé,viajé,gusta,gustar,gustará,canté,jugamos,juega,preparar,ejercicio,prepararé,prepare,preparo,volver,volvi,volvere,corre,come,duerme,olvidar,olvido,olvidé,compré,comprar,canta,baila,sueña,lavará,cocinará,jugará,comerá,dormirá,bailará,cantará,tocará,correrá,corrieron,cociné,lavé,hacía,comimos,hacer,limpié,dibujé,pinté,resolví,ayudé,enseñé,aprendí,descansé,llamé,corrían,regrese,regresamos,habíamos,canse,cansamos,esperé,pensé,sentí,besé,abracé,soñé,volé,conduje,cazé,observé,planté,regué,construí,destruí,reparé,celebré,cene,cenar,cenaba,organicé,participé,competí,recibí,gasté,jugé,comí,caminé,dormí,tuve,hizo,dar,dimos,di,como,camino,duermo,juego,tengo,sentir,escribo,nado,tener,tenia,escucho,miro,hablo,corro,corrían,llevar,llevamos,salto,bailo,leo,estudio,trabajo,viajo,canto,cocino,lavo,limpio,dibujo,pinto,resuelvo,ayudo,enseño,aprendo,descanso,llamo,espero,pienso,siento,beso,abrazo,sueño,vuelo,conduzco,cazo,observo,planto,riego,construyo,destruyo,reparo,celebro,organizo,participo,compito,entreno,admiro,bebo,fumo,comeré,caminaré,dormiré,jugaré,tendré,escribiré,nadaré,escucharé,miraré,hablaré,correré,saltaré,bailaré,leeré,estudiaré,trabajaré,viajaré,cantaré,cocinaré,lavaré,limpiaré,dibujaré,pintaré,resolveré,ayudaré,enseñaré,aprenderé,descansaré,llamaré,esperaré,pensaré,sentiré,besaré,abrazaré,soñaré,volaré,conduciré,cazaré,Observaré,plantaré,regaré,construiré,destruiré,repararé,celebraré,organizaré,participaré,competiré,imaginaré,inventaré,asistiré,trataré,promoveré,Continuaré,viajar,jugar,tener,tenia,asepto,podemos,disfrutar,tengo,viaje,jugaban,subir,subió,subira,hacer,hace,poder,puedo,pude,podia,quedar,quedarme,invite,invitar,subire,invite.
 
@@ -36,7 +36,7 @@ signo: .:()?¡¿!",
 
 900: casa,tienda,supermercado,escuela,tienda,parque,cafetería,restaurante,hospital,panaderia,carniceria,iglesia,piscina,alberca,patio,cuarto,habitación,baño,cocina,veterinario,cochera,optica,salón,hotel,jardin.
 
-901: verano,invierno,otoño,primavera
+901: verano,invierno,otoño,primavera.
 
 902: frutas,verduras,ambiente,paisaje,volcan,árbol,montaña,lago,mar,arena,rio,playa,planta,flor,clima,lodo,pasto,gimnasio,gym,laboratorio,cancha.
 
