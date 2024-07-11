@@ -14,9 +14,11 @@ def analiza_caracteres(cadena):
             return f"Error,caracter invalido'{caracter}'"
     return ''
 
+
 # Solicitar cadena de texto al usuario
 #cadena_usuario = input("Ingrese una cadena de texto: ")
 #caracteres_no_aseptados = analiza_caracteres(cadena_usuario)
+
 
 
 # Funcion que busca si las palabras estan en nuestro catalogo
@@ -31,6 +33,15 @@ def find_sustantivos(palabra):
     return 0,' '
 
 
+#Función que genera un archivo de tokens
+
+def genera_archivo_tokens(lista_tokens):
+    with open('tokens.txt', 'w', encoding='utf-8') as file:
+        for token in lista_tokens:
+            file.write(f"{token}\n")
+  
+  
+  
 #Analiza y valida el archivo gramatica.txt
 
 with open('gramatica.txt', 'r', encoding='utf-8') as file:
@@ -49,4 +60,9 @@ else:
         token, data = find_sustantivos(componente)
         print(f"\tLa palabra: {componente} -> {token}")
         lista_tokens.append(token)
-    print(lista_tokens)
+    #print(lista_tokens)
+    
+    genera_archivo_tokens(lista_tokens)
+    
+    
+    #filter y map
