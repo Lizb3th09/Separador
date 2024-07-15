@@ -2,7 +2,9 @@
 
 10: ser,soy,estar,es,está,cual,estaba,era,prefiero,fueron,desde,sean,siendo,sido,eres,somos,son,estuve,estuvimos,estuvieron,seré,serás,será,seremos,serán,sería,serías,serían,estoy,estás,estamos,estaban,estuve,estuviste,estuvo,estuvieron,estaré,estarás,estará,estaremos,estarían,estado,fui,fuiste,fue,fuimos,fuisteis,éramos,eran,seríamos,serían.
 
-20: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas,los,el,la,familia,hermano,hermana,madre,padre,amigo,amiga,profesor,profesora,doctor,doctora,niño,niña,niños,hombre,mujer,jefe,jefa,vecino,vecina,alumno,alumna,presidente,policía,bombero,conductor,piloto,camarero,camarera,estudiante,ingeniero,licensiado,programador,maestro,maestra,novio,novia,amigos,hijos,hijo,hija,sobrino,sobrina,juntos.
+20: La,Él,Ellos,Ustedes,Yo,Nosotros,TÚ,Ella,Ustéd,Ellas,los,el,la.
+
+21:familia,hermano,hermana,madre,padre,amigo,amiga,profesor,profesora,doctor,doctora,niño,niña,niños,hombre,mujer,jefe,jefa,vecino,vecina,alumno,alumna,presidente,policía,bombero,conductor,piloto,camarero,camarera,estudiante,ingeniero,licensiado,programador,maestro,maestra,novio,novia,amigos,hijos,hijo,hija,sobrino,sobrina,juntos.
 
 30: y,o,a,en,una,pero,aunque,porque,por,tanto,sin,embargo,entonces,después,así,manera,hecho,eso,cambio,otro,lado,es,decir,palabras,pesar,debido,consecuencia,consiguiente,ejemplo,supuesto,primer,lugar,segundo,finalmente,también,incluso,ni,tampoco,pues,ya,dado,puesto,modo,como,en,tanto,si,cuando,con,tal,para,fin,menos,salvo,excepto,no,mi,me,su,lo,le,pesar,de,pese,que,se,Me,porque.
 
